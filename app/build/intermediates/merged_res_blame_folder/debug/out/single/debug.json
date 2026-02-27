@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-merged_res-4:\\drawable_ic_launcher_solid.xml.flat",
+        "source": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-main-6:\\drawable\\ic_launcher_solid.xml"
+    },
+    {
+        "merged": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.pokeitem.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.pokeitem.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\1231\\.gradle\\daemon\\8.5\\com.pokeitem.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
