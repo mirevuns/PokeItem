@@ -568,7 +568,7 @@ public final class DaggerPokeItemApp_HiltComponents_SingletonC {
     }
 
     @Override
-    public void injectPokeItemApp(PokeItemApp arg0) {
+    public void injectPokeItemApp(PokeItemApp pokeItemApp) {
     }
 
     @Override
